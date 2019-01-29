@@ -1,0 +1,19 @@
+section {
+    float: left;
+    margin: 0 1.5%;
+    width: 63%;
+}
+aside {
+    color: seagreen;
+    float: right;
+    margin: 0 1.5%;
+    width: 30%;
+    height: 100%;
+}
+
+.backdrop{
+    background: azure;
+}
+.accent{
+    background: lightslategrey;
+}
